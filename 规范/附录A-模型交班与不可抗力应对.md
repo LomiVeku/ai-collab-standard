@@ -39,7 +39,9 @@ Model space-bunny-free has been deprecated. Use minimax-m3.1-flash-free instead.
 
 服务端**直接指定了继任者**，连"要不要换"都没留给你。
 
-**事后才知道的关键事实：这两个名字是同一个模型。** Space Bunny 是 MiniMax M3.1 Flash 的匿名早期版本——2026-09-23 以 stealth 代号上线，一度登顶 OpenRouter 与 OpenCode 的调用榜，10-19 由 MiniMax 正式认领。所以这不是"换了个模型"，是**同一个模型摘掉马甲**。
+**事后才知道的事实：这两个名字是同一个模型。** Space Bunny 是 MiniMax M3.1 Flash 的匿名早期版本——2026-09-23 以 stealth 代号上线，一度登顶 OpenRouter 与 OpenCode 的调用榜，10-19 由 MiniMax 正式认领。所以这不是"换了个模型"，是**同一个模型摘掉马甲**。
+
+> **出处**：MiniMax 于 2026-10-19 发布 M3.1 Flash 并认领 Space Bunny，见 `dev.to/aihubmix` 对该模型的规格与价格整理、`vectorwire.ai` 的发布报道（两家均引述厂商与平台方口径）；国内媒体同日有中文报道。**410 报错原文为本地实测**，其余为公开报道转述——本附录不是一手信源，读者若要引用，请以厂商公告为准。
 
 **这恰恰是最容易看错的一类变更。** 名字变了、能力没变，但**你手里的档位变了**：免费档原本能开 `max`，改名后实测只有 `default` 能跑。真正的损失不在模型，在**服务条款**——而服务条款从来不写在模型名里。
 
